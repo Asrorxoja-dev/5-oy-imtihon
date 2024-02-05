@@ -1,0 +1,36 @@
+h2 a{
+    text-decoration: none;
+    list-style: none;
+    font-family: sans-serif;
+margin-bottom: 250px;
+margin-left: 100px;
+}
+
+.countryAbout {
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    width: 560px;
+
+}
+
+.text {
+    font-family: sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items:center;
+    gap: 50px;
+}
+
+button{
+    font-family: sans-serif;
+    gap: 10px;
+    font-size: 17px;
+}
+
+button img{
+    margin-right:10px ;
+    margin-top: 10px;
+}
